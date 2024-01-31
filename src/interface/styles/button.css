@@ -1,0 +1,12 @@
+.button {
+    background-color: plum;
+    border-radius: 3px;
+    border: 1px solid darkorchid;
+    color: #fff;
+    font: 400 14px "Comic Sans MS";
+}
+
+#button-start {
+    background-color: peachpuff;
+    color: purple;
+}
